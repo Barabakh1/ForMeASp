@@ -1,17 +1,30 @@
-﻿<!doctype html />
-<html ngApp="myApp">
-    <head>
-         <meta charset="utf-8" />
-    </head>
-    <body>
+﻿<!doctype html>
+<html ng-app="myApp">
+<head>
+<meta charset="utf-8">
+</head>
+<body>
+<div ng-controller="phoneController">
+<p>Название: {{phone.name}}</p>
+<p>Цена: {{phone.price}} $</p>
+<p>Производитель: {{phone.company.name}}</p>
+</div>
+<script src="../../Scripts/angular.min.js"></script>
+<script type="text/javascript">
+    var myApp = angular.module('myApp', []);
+    myApp.controller('phoneController', function ($scope) {
 
-    <div ng-controller= "phoneController">
-        <p>Name:{{phone.name}}</p>
-        <p>Price:{{phone.price}}</p>
-        <p>Made in:{{phone.company.name}}</p>
+        $scope.phone = {
 
-    </div>
-
-    </body>
-
+            name: 'Nokia Lumia 630',
+            year: 2014,
+            price: 200,
+            company: {
+                name: 'Nokia',
+                country: 'Финляндия'
+            }
+        }
+    });
+</script>
+</body>
 </html>

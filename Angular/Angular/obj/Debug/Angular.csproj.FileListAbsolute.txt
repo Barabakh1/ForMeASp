@@ -28,3 +28,33 @@ c:\documents and settings\юра\мои документы\visual studio 2010\Pr
 c:\documents and settings\юра\мои документы\visual studio 2010\Projects\Angular\Angular\obj\Debug\ResolveAssemblyReference.cache
 c:\documents and settings\юра\мои документы\visual studio 2010\Projects\Angular\Angular\obj\Debug\Angular.dll
 c:\documents and settings\юра\мои документы\visual studio 2010\Projects\Angular\Angular\obj\Debug\Angular.pdb
+C:\Documents and Settings\Юра\Рабочий стол\new\ForMeASp\Angular\Angular\bin\Angular.dll
+C:\Documents and Settings\Юра\Рабочий стол\new\ForMeASp\Angular\Angular\bin\Angular.pdb
+C:\Documents and Settings\Юра\Рабочий стол\new\ForMeASp\Angular\Angular\bin\Microsoft.Web.Infrastructure.dll
+C:\Documents and Settings\Юра\Рабочий стол\new\ForMeASp\Angular\Angular\bin\Newtonsoft.Json.dll
+C:\Documents and Settings\Юра\Рабочий стол\new\ForMeASp\Angular\Angular\bin\System.Net.Http.dll
+C:\Documents and Settings\Юра\Рабочий стол\new\ForMeASp\Angular\Angular\bin\System.Net.Http.Formatting.dll
+C:\Documents and Settings\Юра\Рабочий стол\new\ForMeASp\Angular\Angular\bin\System.Net.Http.WebRequest.dll
+C:\Documents and Settings\Юра\Рабочий стол\new\ForMeASp\Angular\Angular\bin\System.Web.Helpers.dll
+C:\Documents and Settings\Юра\Рабочий стол\new\ForMeASp\Angular\Angular\bin\System.Web.Http.dll
+C:\Documents and Settings\Юра\Рабочий стол\new\ForMeASp\Angular\Angular\bin\System.Web.Http.WebHost.dll
+C:\Documents and Settings\Юра\Рабочий стол\new\ForMeASp\Angular\Angular\bin\System.Web.Mvc.dll
+C:\Documents and Settings\Юра\Рабочий стол\new\ForMeASp\Angular\Angular\bin\System.Web.Razor.dll
+C:\Documents and Settings\Юра\Рабочий стол\new\ForMeASp\Angular\Angular\bin\System.Web.WebPages.Deployment.dll
+C:\Documents and Settings\Юра\Рабочий стол\new\ForMeASp\Angular\Angular\bin\System.Web.WebPages.dll
+C:\Documents and Settings\Юра\Рабочий стол\new\ForMeASp\Angular\Angular\bin\System.Web.WebPages.Razor.dll
+C:\Documents and Settings\Юра\Рабочий стол\new\ForMeASp\Angular\Angular\bin\Newtonsoft.Json.xml
+C:\Documents and Settings\Юра\Рабочий стол\new\ForMeASp\Angular\Angular\bin\System.Net.Http.xml
+C:\Documents and Settings\Юра\Рабочий стол\new\ForMeASp\Angular\Angular\bin\System.Net.Http.Formatting.xml
+C:\Documents and Settings\Юра\Рабочий стол\new\ForMeASp\Angular\Angular\bin\System.Net.Http.WebRequest.xml
+C:\Documents and Settings\Юра\Рабочий стол\new\ForMeASp\Angular\Angular\bin\System.Web.Helpers.xml
+C:\Documents and Settings\Юра\Рабочий стол\new\ForMeASp\Angular\Angular\bin\System.Web.Http.xml
+C:\Documents and Settings\Юра\Рабочий стол\new\ForMeASp\Angular\Angular\bin\System.Web.Http.WebHost.xml
+C:\Documents and Settings\Юра\Рабочий стол\new\ForMeASp\Angular\Angular\bin\System.Web.Mvc.xml
+C:\Documents and Settings\Юра\Рабочий стол\new\ForMeASp\Angular\Angular\bin\System.Web.Razor.xml
+C:\Documents and Settings\Юра\Рабочий стол\new\ForMeASp\Angular\Angular\bin\System.Web.WebPages.xml
+C:\Documents and Settings\Юра\Рабочий стол\new\ForMeASp\Angular\Angular\bin\System.Web.WebPages.Deployment.xml
+C:\Documents and Settings\Юра\Рабочий стол\new\ForMeASp\Angular\Angular\bin\System.Web.WebPages.Razor.xml
+C:\Documents and Settings\Юра\Рабочий стол\new\ForMeASp\Angular\Angular\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Юра\Рабочий стол\new\ForMeASp\Angular\Angular\obj\Debug\Angular.dll
+C:\Documents and Settings\Юра\Рабочий стол\new\ForMeASp\Angular\Angular\obj\Debug\Angular.pdb
