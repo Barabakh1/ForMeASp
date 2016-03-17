@@ -1,30 +1,24 @@
 ﻿<!doctype html>
 <html ng-app="myApp">
-<head>
-<meta charset="utf-8">
-</head>
-<body>
-<div ng-controller="phoneController">
-<p>Название: {{phone.name}}</p>
-<p>Цена: {{phone.price}} $</p>
-<p>Производитель: {{phone.company.name}}</p>
-</div>
-<script src="../../Scripts/angular.min.js"></script>
-<script type="text/javascript">
-    var myApp = angular.module('myApp', []);
-    myApp.controller('phoneController', function ($scope) {
-
-        $scope.phone = {
-
-            name: 'Nokia Lumia 630',
-            year: 2014,
-            price: 200,
-            company: {
-                name: 'Nokia',
-                country: 'Финляндия'
-            }
-        }
-    });
-</script>
-</body>
+    <head>
+        <meta charset="utf-8">
+    </head>
+    <body>
+        
+        <div ng-controller="phoneController">
+            <ul>
+                <li ng-repeat = "phone in phones">
+                    <b>{{phone.name}}</b>
+                    <p>Price: {{phone.price}} </p>
+                    <p>Made in: {{phone.company.name}} </p>
+                </li>
+            </ul>
+         
+        </div>
+        <script src ="../../Scripts/angular.js"></script>
+        <script type ="text/javascript">
+            angular.module('myApp', []);
+        </script>
+        <script src="../../Scripts/Controllers/phoneController.js"></script>
+    </body>
 </html>
